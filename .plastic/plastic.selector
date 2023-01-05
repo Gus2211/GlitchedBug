@@ -1,0 +1,4 @@
+repository "GlitchedBug@Mr_Mja@cloud"
+  path "/"
+    br "/main"
+    co "/main"
